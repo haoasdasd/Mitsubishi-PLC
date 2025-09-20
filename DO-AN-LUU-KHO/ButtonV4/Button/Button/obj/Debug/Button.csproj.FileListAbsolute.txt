@@ -1,0 +1,452 @@
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\Button.exe.config
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\Button.exe
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\Button.pdb
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\obj\Debug\Button.csprojAssemblyReference.cache
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\obj\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\obj\Debug\Button.csproj.ResolveComReference.cache
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\obj\Debug\Button.Properties.Resources.resources
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\obj\Debug\Button.csproj.GenerateResource.cache
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\obj\Debug\Button.csproj.CoreCompileInputs.cache
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\obj\Debug\Button.exe
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\obj\Debug\Button.pdb
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\NetToolKit.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\SKCLNET.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\SymbolFactoryDotNet.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\SymbolFactoryNetEngine.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\obj\Debug\Button.csproj.CopyComplete
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\obj\Debug\Button.exe.config
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\dll\x86\opencv_videoio_ffmpeg420.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\dll\x64\opencv_videoio_ffmpeg420_64.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\netstandard.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.AppContext.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Collections.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Collections.Specialized.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.ComponentModel.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Console.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Data.Common.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Globalization.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.IO.Compression.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.IO.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.IO.FileSystem.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.IO.Pipes.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Linq.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Linq.Expressions.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Linq.Parallel.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Linq.Queryable.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Net.Http.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Net.NameResolution.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Net.Ping.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Net.Primitives.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Net.Requests.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Net.Security.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Net.Sockets.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Net.WebSockets.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.ObjectModel.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Reflection.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Resources.Reader.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Resources.Writer.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Runtime.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Runtime.Handles.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Security.Claims.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Security.Principal.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Security.SecureString.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Text.Encoding.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Threading.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Threading.Tasks.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Threading.Thread.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Threading.Timer.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.ValueTuple.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Xml.XDocument.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Xml.XPath.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\OpenCvSharp.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Buffers.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Drawing.Common.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Memory.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\zxing.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\zxing.presentation.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\OpenCvSharp.xml
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Buffers.xml
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Memory.xml
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\zxing.xml
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\zxing.presentation.xml
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\obj\Debug\Button.comboBoxCameras.resources
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ngtua\Desktop\TestSymboll\LuuKho\Button\Button\bin\Debug\Newtonsoft.Json.xml
+D:\Button\Button\obj\Debug\Button.csproj.AssemblyReference.cache
+D:\Button\Button\obj\Debug\Interop.ActUtlTypeLib.dll
+D:\Button\Button\obj\Debug\Button.csproj.ResolveComReference.cache
+D:\Button\Button\obj\Debug\Button.comboBoxCameras.resources
+D:\Button\Button\obj\Debug\Button.Properties.Resources.resources
+D:\Button\Button\obj\Debug\Button.csproj.GenerateResource.cache
+D:\Button\Button\obj\Debug\Button.csproj.CoreCompileInputs.cache
+D:\Button\Button\obj\Debug\Button.exe
+D:\Button\Button\obj\Debug\Button.pdb
+D:\Button\Button\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\Button\Button\bin\Debug\dll\x86\opencv_videoio_ffmpeg420.dll
+D:\Button\Button\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\Button\Button\bin\Debug\dll\x64\opencv_videoio_ffmpeg420_64.dll
+D:\Button\Button\bin\Debug\Button.exe.config
+D:\Button\Button\bin\Debug\Button.exe
+D:\Button\Button\bin\Debug\Button.pdb
+D:\Button\Button\bin\Debug\Newtonsoft.Json.dll
+D:\Button\Button\bin\Debug\OpenCvSharp.dll
+D:\Button\Button\bin\Debug\OpenCvSharp.Extensions.dll
+D:\Button\Button\bin\Debug\System.Buffers.dll
+D:\Button\Button\bin\Debug\System.Drawing.Common.dll
+D:\Button\Button\bin\Debug\System.Memory.dll
+D:\Button\Button\bin\Debug\System.Numerics.Vectors.dll
+D:\Button\Button\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Button\Button\bin\Debug\zxing.dll
+D:\Button\Button\bin\Debug\zxing.presentation.dll
+D:\Button\Button\bin\Debug\Newtonsoft.Json.xml
+D:\Button\Button\bin\Debug\OpenCvSharp.xml
+D:\Button\Button\bin\Debug\OpenCvSharp.Extensions.xml
+D:\Button\Button\bin\Debug\System.Buffers.xml
+D:\Button\Button\bin\Debug\System.Memory.xml
+D:\Button\Button\bin\Debug\System.Numerics.Vectors.xml
+D:\Button\Button\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Button\Button\bin\Debug\zxing.xml
+D:\Button\Button\bin\Debug\zxing.presentation.xml
+D:\Button\Button\obj\Debug\Button.csproj.Up2Date
+C:\Users\ngtua\Downloads\Button\Button\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\ngtua\Downloads\Button\Button\bin\Debug\dll\x86\opencv_videoio_ffmpeg420.dll
+C:\Users\ngtua\Downloads\Button\Button\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\ngtua\Downloads\Button\Button\bin\Debug\dll\x64\opencv_videoio_ffmpeg420_64.dll
+C:\Users\ngtua\Downloads\Button\Button\bin\Debug\Button.exe.config
+C:\Users\ngtua\Downloads\Button\Button\bin\Debug\Button.exe
+C:\Users\ngtua\Downloads\Button\Button\bin\Debug\Button.pdb
+C:\Users\ngtua\Downloads\Button\Button\bin\Debug\NetToolKit.dll
+C:\Users\ngtua\Downloads\Button\Button\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ngtua\Downloads\Button\Button\bin\Debug\OpenCvSharp.dll
+C:\Users\ngtua\Downloads\Button\Button\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\ngtua\Downloads\Button\Button\bin\Debug\SKCLNET.dll
+C:\Users\ngtua\Downloads\Button\Button\bin\Debug\SymbolFactoryDotNet.dll
+C:\Users\ngtua\Downloads\Button\Button\bin\Debug\SymbolFactoryNetEngine.dll
+C:\Users\ngtua\Downloads\Button\Button\bin\Debug\System.Buffers.dll
+C:\Users\ngtua\Downloads\Button\Button\bin\Debug\System.Drawing.Common.dll
+C:\Users\ngtua\Downloads\Button\Button\bin\Debug\System.Memory.dll
+C:\Users\ngtua\Downloads\Button\Button\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ngtua\Downloads\Button\Button\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ngtua\Downloads\Button\Button\bin\Debug\zxing.dll
+C:\Users\ngtua\Downloads\Button\Button\bin\Debug\zxing.presentation.dll
+C:\Users\ngtua\Downloads\Button\Button\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ngtua\Downloads\Button\Button\bin\Debug\OpenCvSharp.xml
+C:\Users\ngtua\Downloads\Button\Button\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\ngtua\Downloads\Button\Button\bin\Debug\System.Buffers.xml
+C:\Users\ngtua\Downloads\Button\Button\bin\Debug\System.Memory.xml
+C:\Users\ngtua\Downloads\Button\Button\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ngtua\Downloads\Button\Button\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ngtua\Downloads\Button\Button\bin\Debug\zxing.xml
+C:\Users\ngtua\Downloads\Button\Button\bin\Debug\zxing.presentation.xml
+C:\Users\ngtua\Downloads\Button\Button\obj\Debug\Button.csprojAssemblyReference.cache
+C:\Users\ngtua\Downloads\Button\Button\obj\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\ngtua\Downloads\Button\Button\obj\Debug\Button.csproj.ResolveComReference.cache
+C:\Users\ngtua\Downloads\Button\Button\obj\Debug\Button.comboBoxCameras.resources
+C:\Users\ngtua\Downloads\Button\Button\obj\Debug\Button.Properties.Resources.resources
+C:\Users\ngtua\Downloads\Button\Button\obj\Debug\Button.csproj.GenerateResource.cache
+C:\Users\ngtua\Downloads\Button\Button\obj\Debug\Button.csproj.CoreCompileInputs.cache
+C:\Users\ngtua\Downloads\Button\Button\obj\Debug\Button.csproj.CopyComplete
+C:\Users\ngtua\Downloads\Button\Button\obj\Debug\Button.exe
+C:\Users\ngtua\Downloads\Button\Button\obj\Debug\Button.pdb
+C:\Users\ACER\OneDrive\Desktop\Button\Button\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\ACER\OneDrive\Desktop\Button\Button\bin\Debug\dll\x86\opencv_videoio_ffmpeg420.dll
+C:\Users\ACER\OneDrive\Desktop\Button\Button\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\ACER\OneDrive\Desktop\Button\Button\bin\Debug\dll\x64\opencv_videoio_ffmpeg420_64.dll
+C:\Users\ACER\OneDrive\Desktop\Button\Button\bin\Debug\Button.exe.config
+C:\Users\ACER\OneDrive\Desktop\Button\Button\bin\Debug\Button.exe
+C:\Users\ACER\OneDrive\Desktop\Button\Button\bin\Debug\Button.pdb
+C:\Users\ACER\OneDrive\Desktop\Button\Button\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ACER\OneDrive\Desktop\Button\Button\bin\Debug\OpenCvSharp.dll
+C:\Users\ACER\OneDrive\Desktop\Button\Button\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\ACER\OneDrive\Desktop\Button\Button\bin\Debug\System.Buffers.dll
+C:\Users\ACER\OneDrive\Desktop\Button\Button\bin\Debug\System.Drawing.Common.dll
+C:\Users\ACER\OneDrive\Desktop\Button\Button\bin\Debug\System.Memory.dll
+C:\Users\ACER\OneDrive\Desktop\Button\Button\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ACER\OneDrive\Desktop\Button\Button\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ACER\OneDrive\Desktop\Button\Button\bin\Debug\zxing.dll
+C:\Users\ACER\OneDrive\Desktop\Button\Button\bin\Debug\zxing.presentation.dll
+C:\Users\ACER\OneDrive\Desktop\Button\Button\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ACER\OneDrive\Desktop\Button\Button\bin\Debug\OpenCvSharp.xml
+C:\Users\ACER\OneDrive\Desktop\Button\Button\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\ACER\OneDrive\Desktop\Button\Button\bin\Debug\System.Buffers.xml
+C:\Users\ACER\OneDrive\Desktop\Button\Button\bin\Debug\System.Memory.xml
+C:\Users\ACER\OneDrive\Desktop\Button\Button\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ACER\OneDrive\Desktop\Button\Button\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ACER\OneDrive\Desktop\Button\Button\bin\Debug\zxing.xml
+C:\Users\ACER\OneDrive\Desktop\Button\Button\bin\Debug\zxing.presentation.xml
+C:\Users\ACER\OneDrive\Desktop\Button\Button\obj\Debug\Button.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\Button\Button\obj\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\ACER\OneDrive\Desktop\Button\Button\obj\Debug\Button.csproj.ResolveComReference.cache
+C:\Users\ACER\OneDrive\Desktop\Button\Button\obj\Debug\Button.comboBoxCameras.resources
+C:\Users\ACER\OneDrive\Desktop\Button\Button\obj\Debug\Button.Properties.Resources.resources
+C:\Users\ACER\OneDrive\Desktop\Button\Button\obj\Debug\Button.csproj.GenerateResource.cache
+C:\Users\ACER\OneDrive\Desktop\Button\Button\obj\Debug\Button.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\Button\Button\obj\Debug\Button.csproj.Up2Date
+C:\Users\ACER\OneDrive\Desktop\Button\Button\obj\Debug\Button.exe
+C:\Users\ACER\OneDrive\Desktop\Button\Button\obj\Debug\Button.pdb
+C:\Users\ACER\OneDrive\Desktop\Button\Button\obj\Debug\Button.FormXung.resources
+D:\Button\Button\obj\Debug\Button.FormXung.resources
+D:\CODETEST\Button\Button\obj\Debug\Button.csproj.AssemblyReference.cache
+D:\CODETEST\Button\Button\obj\Debug\Interop.ActUtlTypeLib.dll
+D:\CODETEST\Button\Button\obj\Debug\Button.csproj.ResolveComReference.cache
+D:\CODETEST\Button\Button\obj\Debug\Button.comboBoxCameras.resources
+D:\CODETEST\Button\Button\obj\Debug\Button.FormXung.resources
+D:\CODETEST\Button\Button\obj\Debug\Button.Properties.Resources.resources
+D:\CODETEST\Button\Button\obj\Debug\Button.csproj.GenerateResource.cache
+D:\CODETEST\Button\Button\obj\Debug\Button.csproj.CoreCompileInputs.cache
+D:\CODETEST\Button\Button\obj\Debug\Button.exe
+D:\CODETEST\Button\Button\obj\Debug\Button.pdb
+D:\CODETEST\Button\Button\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\CODETEST\Button\Button\bin\Debug\dll\x86\opencv_videoio_ffmpeg420.dll
+D:\CODETEST\Button\Button\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\CODETEST\Button\Button\bin\Debug\dll\x64\opencv_videoio_ffmpeg420_64.dll
+D:\CODETEST\Button\Button\bin\Debug\Button.exe.config
+D:\CODETEST\Button\Button\bin\Debug\Button.exe
+D:\CODETEST\Button\Button\bin\Debug\Button.pdb
+D:\CODETEST\Button\Button\bin\Debug\Newtonsoft.Json.dll
+D:\CODETEST\Button\Button\bin\Debug\OpenCvSharp.dll
+D:\CODETEST\Button\Button\bin\Debug\OpenCvSharp.Extensions.dll
+D:\CODETEST\Button\Button\bin\Debug\System.Buffers.dll
+D:\CODETEST\Button\Button\bin\Debug\System.Drawing.Common.dll
+D:\CODETEST\Button\Button\bin\Debug\System.Memory.dll
+D:\CODETEST\Button\Button\bin\Debug\System.Numerics.Vectors.dll
+D:\CODETEST\Button\Button\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\CODETEST\Button\Button\bin\Debug\zxing.dll
+D:\CODETEST\Button\Button\bin\Debug\zxing.presentation.dll
+D:\CODETEST\Button\Button\bin\Debug\Newtonsoft.Json.xml
+D:\CODETEST\Button\Button\bin\Debug\OpenCvSharp.xml
+D:\CODETEST\Button\Button\bin\Debug\OpenCvSharp.Extensions.xml
+D:\CODETEST\Button\Button\bin\Debug\System.Buffers.xml
+D:\CODETEST\Button\Button\bin\Debug\System.Memory.xml
+D:\CODETEST\Button\Button\bin\Debug\System.Numerics.Vectors.xml
+D:\CODETEST\Button\Button\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\CODETEST\Button\Button\bin\Debug\zxing.xml
+D:\CODETEST\Button\Button\bin\Debug\zxing.presentation.xml
+D:\CODETEST\Button\Button\obj\Debug\Button.csproj.Up2Date
+C:\Users\ngtua\Downloads\Button (1)\Button\Button\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\ngtua\Downloads\Button (1)\Button\Button\bin\Debug\dll\x86\opencv_videoio_ffmpeg420.dll
+C:\Users\ngtua\Downloads\Button (1)\Button\Button\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\ngtua\Downloads\Button (1)\Button\Button\bin\Debug\dll\x64\opencv_videoio_ffmpeg420_64.dll
+C:\Users\ngtua\Downloads\Button (1)\Button\Button\bin\Debug\Button.exe.config
+C:\Users\ngtua\Downloads\Button (1)\Button\Button\bin\Debug\Button.exe
+C:\Users\ngtua\Downloads\Button (1)\Button\Button\bin\Debug\Button.pdb
+C:\Users\ngtua\Downloads\Button (1)\Button\Button\bin\Debug\NetToolKit.dll
+C:\Users\ngtua\Downloads\Button (1)\Button\Button\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ngtua\Downloads\Button (1)\Button\Button\bin\Debug\OpenCvSharp.dll
+C:\Users\ngtua\Downloads\Button (1)\Button\Button\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\ngtua\Downloads\Button (1)\Button\Button\bin\Debug\SKCLNET.dll
+C:\Users\ngtua\Downloads\Button (1)\Button\Button\bin\Debug\SymbolFactoryDotNet.dll
+C:\Users\ngtua\Downloads\Button (1)\Button\Button\bin\Debug\SymbolFactoryNetEngine.dll
+C:\Users\ngtua\Downloads\Button (1)\Button\Button\bin\Debug\System.Buffers.dll
+C:\Users\ngtua\Downloads\Button (1)\Button\Button\bin\Debug\System.Drawing.Common.dll
+C:\Users\ngtua\Downloads\Button (1)\Button\Button\bin\Debug\System.Memory.dll
+C:\Users\ngtua\Downloads\Button (1)\Button\Button\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ngtua\Downloads\Button (1)\Button\Button\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ngtua\Downloads\Button (1)\Button\Button\bin\Debug\zxing.dll
+C:\Users\ngtua\Downloads\Button (1)\Button\Button\bin\Debug\zxing.presentation.dll
+C:\Users\ngtua\Downloads\Button (1)\Button\Button\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ngtua\Downloads\Button (1)\Button\Button\bin\Debug\OpenCvSharp.xml
+C:\Users\ngtua\Downloads\Button (1)\Button\Button\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\ngtua\Downloads\Button (1)\Button\Button\bin\Debug\System.Buffers.xml
+C:\Users\ngtua\Downloads\Button (1)\Button\Button\bin\Debug\System.Memory.xml
+C:\Users\ngtua\Downloads\Button (1)\Button\Button\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ngtua\Downloads\Button (1)\Button\Button\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ngtua\Downloads\Button (1)\Button\Button\bin\Debug\zxing.xml
+C:\Users\ngtua\Downloads\Button (1)\Button\Button\bin\Debug\zxing.presentation.xml
+C:\Users\ngtua\Downloads\Button (1)\Button\Button\obj\Debug\Button.csprojAssemblyReference.cache
+C:\Users\ngtua\Downloads\Button (1)\Button\Button\obj\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\ngtua\Downloads\Button (1)\Button\Button\obj\Debug\Button.csproj.ResolveComReference.cache
+C:\Users\ngtua\Downloads\Button (1)\Button\Button\obj\Debug\Button.comboBoxCameras.resources
+C:\Users\ngtua\Downloads\Button (1)\Button\Button\obj\Debug\Button.FormXung.resources
+C:\Users\ngtua\Downloads\Button (1)\Button\Button\obj\Debug\Button.Properties.Resources.resources
+C:\Users\ngtua\Downloads\Button (1)\Button\Button\obj\Debug\Button.csproj.GenerateResource.cache
+C:\Users\ngtua\Downloads\Button (1)\Button\Button\obj\Debug\Button.csproj.CoreCompileInputs.cache
+C:\Users\ngtua\Downloads\Button (1)\Button\Button\obj\Debug\Button.csproj.CopyComplete
+C:\Users\ngtua\Downloads\Button (1)\Button\Button\obj\Debug\Button.exe
+C:\Users\ngtua\Downloads\Button (1)\Button\Button\obj\Debug\Button.pdb
+C:\Users\admin\Downloads\codelk\Button (1)\Button\Button\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\admin\Downloads\codelk\Button (1)\Button\Button\bin\Debug\dll\x86\opencv_videoio_ffmpeg420.dll
+C:\Users\admin\Downloads\codelk\Button (1)\Button\Button\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\admin\Downloads\codelk\Button (1)\Button\Button\bin\Debug\dll\x64\opencv_videoio_ffmpeg420_64.dll
+C:\Users\admin\Downloads\codelk\Button (1)\Button\Button\bin\Debug\Button.exe.config
+C:\Users\admin\Downloads\codelk\Button (1)\Button\Button\bin\Debug\Button.exe
+C:\Users\admin\Downloads\codelk\Button (1)\Button\Button\bin\Debug\Button.pdb
+C:\Users\admin\Downloads\codelk\Button (1)\Button\Button\bin\Debug\NetToolKit.dll
+C:\Users\admin\Downloads\codelk\Button (1)\Button\Button\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Downloads\codelk\Button (1)\Button\Button\bin\Debug\OpenCvSharp.dll
+C:\Users\admin\Downloads\codelk\Button (1)\Button\Button\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\admin\Downloads\codelk\Button (1)\Button\Button\bin\Debug\SKCLNET.dll
+C:\Users\admin\Downloads\codelk\Button (1)\Button\Button\bin\Debug\SymbolFactoryDotNet.dll
+C:\Users\admin\Downloads\codelk\Button (1)\Button\Button\bin\Debug\SymbolFactoryNetEngine.dll
+C:\Users\admin\Downloads\codelk\Button (1)\Button\Button\bin\Debug\System.Buffers.dll
+C:\Users\admin\Downloads\codelk\Button (1)\Button\Button\bin\Debug\System.Drawing.Common.dll
+C:\Users\admin\Downloads\codelk\Button (1)\Button\Button\bin\Debug\System.Memory.dll
+C:\Users\admin\Downloads\codelk\Button (1)\Button\Button\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\admin\Downloads\codelk\Button (1)\Button\Button\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\admin\Downloads\codelk\Button (1)\Button\Button\bin\Debug\zxing.dll
+C:\Users\admin\Downloads\codelk\Button (1)\Button\Button\bin\Debug\zxing.presentation.dll
+C:\Users\admin\Downloads\codelk\Button (1)\Button\Button\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Downloads\codelk\Button (1)\Button\Button\bin\Debug\OpenCvSharp.xml
+C:\Users\admin\Downloads\codelk\Button (1)\Button\Button\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\admin\Downloads\codelk\Button (1)\Button\Button\bin\Debug\System.Buffers.xml
+C:\Users\admin\Downloads\codelk\Button (1)\Button\Button\bin\Debug\System.Memory.xml
+C:\Users\admin\Downloads\codelk\Button (1)\Button\Button\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\admin\Downloads\codelk\Button (1)\Button\Button\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\admin\Downloads\codelk\Button (1)\Button\Button\bin\Debug\zxing.xml
+C:\Users\admin\Downloads\codelk\Button (1)\Button\Button\bin\Debug\zxing.presentation.xml
+C:\Users\admin\Downloads\codelk\Button (1)\Button\Button\obj\Debug\Button.csprojAssemblyReference.cache
+C:\Users\admin\Downloads\codelk\Button (1)\Button\Button\obj\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\admin\Downloads\codelk\Button (1)\Button\Button\obj\Debug\Button.csproj.ResolveComReference.cache
+C:\Users\admin\Downloads\codelk\Button (1)\Button\Button\obj\Debug\Button.comboBoxCameras.resources
+C:\Users\admin\Downloads\codelk\Button (1)\Button\Button\obj\Debug\Button.FormXung.resources
+C:\Users\admin\Downloads\codelk\Button (1)\Button\Button\obj\Debug\Button.Properties.Resources.resources
+C:\Users\admin\Downloads\codelk\Button (1)\Button\Button\obj\Debug\Button.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\codelk\Button (1)\Button\Button\obj\Debug\Button.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\codelk\Button (1)\Button\Button\obj\Debug\Button.csproj.CopyComplete
+C:\Users\admin\Downloads\codelk\Button (1)\Button\Button\obj\Debug\Button.exe
+C:\Users\admin\Downloads\codelk\Button (1)\Button\Button\obj\Debug\Button.pdb
+C:\Users\ngtua\Downloads\codelk\codelk\Button (1)\Button\Button\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\ngtua\Downloads\codelk\codelk\Button (1)\Button\Button\bin\Debug\dll\x86\opencv_videoio_ffmpeg420.dll
+C:\Users\ngtua\Downloads\codelk\codelk\Button (1)\Button\Button\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\ngtua\Downloads\codelk\codelk\Button (1)\Button\Button\bin\Debug\dll\x64\opencv_videoio_ffmpeg420_64.dll
+C:\Users\ngtua\Downloads\codelk\codelk\Button (1)\Button\Button\bin\Debug\Button.exe.config
+C:\Users\ngtua\Downloads\codelk\codelk\Button (1)\Button\Button\bin\Debug\Button.exe
+C:\Users\ngtua\Downloads\codelk\codelk\Button (1)\Button\Button\bin\Debug\Button.pdb
+C:\Users\ngtua\Downloads\codelk\codelk\Button (1)\Button\Button\bin\Debug\NetToolKit.dll
+C:\Users\ngtua\Downloads\codelk\codelk\Button (1)\Button\Button\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ngtua\Downloads\codelk\codelk\Button (1)\Button\Button\bin\Debug\OpenCvSharp.dll
+C:\Users\ngtua\Downloads\codelk\codelk\Button (1)\Button\Button\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\ngtua\Downloads\codelk\codelk\Button (1)\Button\Button\bin\Debug\SKCLNET.dll
+C:\Users\ngtua\Downloads\codelk\codelk\Button (1)\Button\Button\bin\Debug\SymbolFactoryDotNet.dll
+C:\Users\ngtua\Downloads\codelk\codelk\Button (1)\Button\Button\bin\Debug\SymbolFactoryNetEngine.dll
+C:\Users\ngtua\Downloads\codelk\codelk\Button (1)\Button\Button\bin\Debug\System.Buffers.dll
+C:\Users\ngtua\Downloads\codelk\codelk\Button (1)\Button\Button\bin\Debug\System.Drawing.Common.dll
+C:\Users\ngtua\Downloads\codelk\codelk\Button (1)\Button\Button\bin\Debug\System.Memory.dll
+C:\Users\ngtua\Downloads\codelk\codelk\Button (1)\Button\Button\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ngtua\Downloads\codelk\codelk\Button (1)\Button\Button\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ngtua\Downloads\codelk\codelk\Button (1)\Button\Button\bin\Debug\zxing.dll
+C:\Users\ngtua\Downloads\codelk\codelk\Button (1)\Button\Button\bin\Debug\zxing.presentation.dll
+C:\Users\ngtua\Downloads\codelk\codelk\Button (1)\Button\Button\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ngtua\Downloads\codelk\codelk\Button (1)\Button\Button\bin\Debug\OpenCvSharp.xml
+C:\Users\ngtua\Downloads\codelk\codelk\Button (1)\Button\Button\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\ngtua\Downloads\codelk\codelk\Button (1)\Button\Button\bin\Debug\System.Buffers.xml
+C:\Users\ngtua\Downloads\codelk\codelk\Button (1)\Button\Button\bin\Debug\System.Memory.xml
+C:\Users\ngtua\Downloads\codelk\codelk\Button (1)\Button\Button\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ngtua\Downloads\codelk\codelk\Button (1)\Button\Button\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ngtua\Downloads\codelk\codelk\Button (1)\Button\Button\bin\Debug\zxing.xml
+C:\Users\ngtua\Downloads\codelk\codelk\Button (1)\Button\Button\bin\Debug\zxing.presentation.xml
+C:\Users\ngtua\Downloads\codelk\codelk\Button (1)\Button\Button\obj\Debug\Button.csprojAssemblyReference.cache
+C:\Users\ngtua\Downloads\codelk\codelk\Button (1)\Button\Button\obj\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\ngtua\Downloads\codelk\codelk\Button (1)\Button\Button\obj\Debug\Button.csproj.ResolveComReference.cache
+C:\Users\ngtua\Downloads\codelk\codelk\Button (1)\Button\Button\obj\Debug\Button.comboBoxCameras.resources
+C:\Users\ngtua\Downloads\codelk\codelk\Button (1)\Button\Button\obj\Debug\Button.FormXung.resources
+C:\Users\ngtua\Downloads\codelk\codelk\Button (1)\Button\Button\obj\Debug\Button.Properties.Resources.resources
+C:\Users\ngtua\Downloads\codelk\codelk\Button (1)\Button\Button\obj\Debug\Button.csproj.GenerateResource.cache
+C:\Users\ngtua\Downloads\codelk\codelk\Button (1)\Button\Button\obj\Debug\Button.csproj.CoreCompileInputs.cache
+C:\Users\ngtua\Downloads\codelk\codelk\Button (1)\Button\Button\obj\Debug\Button.csproj.CopyComplete
+C:\Users\ngtua\Downloads\codelk\codelk\Button (1)\Button\Button\obj\Debug\Button.exe
+C:\Users\ngtua\Downloads\codelk\codelk\Button (1)\Button\Button\obj\Debug\Button.pdb
+C:\Users\admin\Downloads\ButtonV4\Button\Button\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\admin\Downloads\ButtonV4\Button\Button\bin\Debug\dll\x86\opencv_videoio_ffmpeg420.dll
+C:\Users\admin\Downloads\ButtonV4\Button\Button\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\admin\Downloads\ButtonV4\Button\Button\bin\Debug\dll\x64\opencv_videoio_ffmpeg420_64.dll
+C:\Users\admin\Downloads\ButtonV4\Button\Button\bin\Debug\Button.exe.config
+C:\Users\admin\Downloads\ButtonV4\Button\Button\bin\Debug\Button.exe
+C:\Users\admin\Downloads\ButtonV4\Button\Button\bin\Debug\Button.pdb
+C:\Users\admin\Downloads\ButtonV4\Button\Button\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Downloads\ButtonV4\Button\Button\bin\Debug\OpenCvSharp.dll
+C:\Users\admin\Downloads\ButtonV4\Button\Button\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\admin\Downloads\ButtonV4\Button\Button\bin\Debug\System.Buffers.dll
+C:\Users\admin\Downloads\ButtonV4\Button\Button\bin\Debug\System.Drawing.Common.dll
+C:\Users\admin\Downloads\ButtonV4\Button\Button\bin\Debug\System.Memory.dll
+C:\Users\admin\Downloads\ButtonV4\Button\Button\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\admin\Downloads\ButtonV4\Button\Button\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\admin\Downloads\ButtonV4\Button\Button\bin\Debug\zxing.dll
+C:\Users\admin\Downloads\ButtonV4\Button\Button\bin\Debug\zxing.presentation.dll
+C:\Users\admin\Downloads\ButtonV4\Button\Button\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Downloads\ButtonV4\Button\Button\bin\Debug\OpenCvSharp.xml
+C:\Users\admin\Downloads\ButtonV4\Button\Button\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\admin\Downloads\ButtonV4\Button\Button\bin\Debug\System.Buffers.xml
+C:\Users\admin\Downloads\ButtonV4\Button\Button\bin\Debug\System.Memory.xml
+C:\Users\admin\Downloads\ButtonV4\Button\Button\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\admin\Downloads\ButtonV4\Button\Button\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\admin\Downloads\ButtonV4\Button\Button\bin\Debug\zxing.xml
+C:\Users\admin\Downloads\ButtonV4\Button\Button\bin\Debug\zxing.presentation.xml
+C:\Users\admin\Downloads\ButtonV4\Button\Button\obj\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\admin\Downloads\ButtonV4\Button\Button\obj\Debug\Button.csproj.ResolveComReference.cache
+C:\Users\admin\Downloads\ButtonV4\Button\Button\obj\Debug\Button.comboBoxCameras.resources
+C:\Users\admin\Downloads\ButtonV4\Button\Button\obj\Debug\Button.FormXung.resources
+C:\Users\admin\Downloads\ButtonV4\Button\Button\obj\Debug\Button.Properties.Resources.resources
+C:\Users\admin\Downloads\ButtonV4\Button\Button\obj\Debug\Button.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\ButtonV4\Button\Button\obj\Debug\Button.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\ButtonV4\Button\Button\obj\Debug\Button.exe
+C:\Users\admin\Downloads\ButtonV4\Button\Button\obj\Debug\Button.pdb
+C:\Users\admin\Downloads\ButtonV4\Button\Button\bin\Debug\NetToolKit.dll
+C:\Users\admin\Downloads\ButtonV4\Button\Button\bin\Debug\SKCLNET.dll
+C:\Users\admin\Downloads\ButtonV4\Button\Button\bin\Debug\SymbolFactoryDotNet.dll
+C:\Users\admin\Downloads\ButtonV4\Button\Button\bin\Debug\SymbolFactoryNetEngine.dll
+C:\Users\admin\Downloads\ButtonV4\Button\Button\obj\Debug\Button.csprojAssemblyReference.cache
+C:\Users\admin\Downloads\ButtonV4\Button\Button\obj\Debug\Button.csproj.CopyComplete

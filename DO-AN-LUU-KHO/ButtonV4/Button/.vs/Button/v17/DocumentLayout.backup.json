@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Downloads\\ButtonV4\\Button\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{749F51CD-4BEC-4190-BE27-82EBB6F9406B}|Button\\Button.csproj|C:\\Users\\admin\\Downloads\\ButtonV4\\Button\\button\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749F51CD-4BEC-4190-BE27-82EBB6F9406B}|Button\\Button.csproj|solutionrelative:button\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749F51CD-4BEC-4190-BE27-82EBB6F9406B}|Button\\Button.csproj|C:\\Users\\admin\\Downloads\\ButtonV4\\Button\\button\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{749F51CD-4BEC-4190-BE27-82EBB6F9406B}|Button\\Button.csproj|solutionrelative:button\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749F51CD-4BEC-4190-BE27-82EBB6F9406B}|Button\\Button.csproj|c:\\users\\admin\\downloads\\buttonv4\\button\\button\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749F51CD-4BEC-4190-BE27-82EBB6F9406B}|Button\\Button.csproj|solutionrelative:button\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749F51CD-4BEC-4190-BE27-82EBB6F9406B}|Button\\Button.csproj|C:\\Users\\admin\\Downloads\\ButtonV4\\Button\\button\\formxung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{749F51CD-4BEC-4190-BE27-82EBB6F9406B}|Button\\Button.csproj|solutionrelative:button\\formxung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749F51CD-4BEC-4190-BE27-82EBB6F9406B}|Button\\Button.csproj|C:\\Users\\admin\\Downloads\\ButtonV4\\Button\\button\\formxung.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749F51CD-4BEC-4190-BE27-82EBB6F9406B}|Button\\Button.csproj|solutionrelative:button\\formxung.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749F51CD-4BEC-4190-BE27-82EBB6F9406B}|Button\\Button.csproj|C:\\Users\\admin\\Downloads\\ButtonV4\\Button\\button\\formxung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749F51CD-4BEC-4190-BE27-82EBB6F9406B}|Button\\Button.csproj|solutionrelative:button\\formxung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\ButtonV4\\Button\\Button\\Form1.cs",
+              "RelativeDocumentMoniker": "Button\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\ButtonV4\\Button\\Button\\Form1.cs",
+              "RelativeToolTip": "Button\\Form1.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAYwAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T05:32:24.159Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\ButtonV4\\Button\\Button\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Button\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\ButtonV4\\Button\\Button\\Form1.Designer.cs",
+              "RelativeToolTip": "Button\\Form1.Designer.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T06:21:29.419Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\ButtonV4\\Button\\Button\\Form1.cs",
+              "RelativeDocumentMoniker": "Button\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\ButtonV4\\Button\\Button\\Form1.cs [Design]",
+              "RelativeToolTip": "Button\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T11:48:17.824Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormXung.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\ButtonV4\\Button\\Button\\FormXung.Designer.cs",
+              "RelativeDocumentMoniker": "Button\\FormXung.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\ButtonV4\\Button\\Button\\FormXung.Designer.cs",
+              "RelativeToolTip": "Button\\FormXung.Designer.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAhwH0AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T11:22:15.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormXung.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\ButtonV4\\Button\\Button\\FormXung.cs",
+              "RelativeDocumentMoniker": "Button\\FormXung.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\ButtonV4\\Button\\Button\\FormXung.cs",
+              "RelativeToolTip": "Button\\FormXung.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAcwLcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T11:20:33.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormXung.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\ButtonV4\\Button\\Button\\FormXung.cs",
+              "RelativeDocumentMoniker": "Button\\FormXung.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\ButtonV4\\Button\\Button\\FormXung.cs [Design]",
+              "RelativeToolTip": "Button\\FormXung.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T11:20:29.337Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
